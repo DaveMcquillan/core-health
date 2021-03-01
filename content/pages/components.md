@@ -1,21 +1,30 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+title: Services
+featuredImage: https://ucarecdn.com/87c3efec-af00-4373-a799-17dffddfb8cc/
+subtitle: |-
+  Stress management.......Pain management.......Education
+
+  Massage Therapy.......Mindbody Therapy.......Meditation
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## Massage Therapy
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
-section2: >-
-  ## You can use videos, images and text.
+  Massage therapy reduces tension, relieves aches and pain and improves psychological wellbeing among other things.
 
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_m2CHvfVK5I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  30 mins - $60
+
+
+  60 mins - $90
+
+
+  90 mins - $120
+
+
+  Dave has worked in the massage industry since 1998, and has been teaching massage therapy at Otago Polytechnic since 2006.
+section2: "## Mindbody Therapy"
 video: https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/
 videoPoster: https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/
 videoTitle: Also background videos, with poster image & title overlay.
