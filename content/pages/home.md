@@ -2,9 +2,13 @@
 template: HomePage
 slug: ""
 title: Core Health & Wellness
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
-subtitle: Welcome to the website for Core Health & Wellness, a Dunedin-based
+featuredImage: https://ucarecdn.com/1758d00d-60f0-4980-ad45-83d302d3c10f/
+subtitle: >-
+  Welcome to the website for Core Health & Wellness, a Dunedin-based
   full-spectrum health service.
+
+
+  **Massage......Mindbody Therapy.......Meditation.......Wellness coaching**
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
