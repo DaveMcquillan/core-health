@@ -1,14 +1,14 @@
 ---
 template: ComponentsPage
-slug: components
-title: Services
-featuredImage: https://ucarecdn.com/87c3efec-af00-4373-a799-17dffddfb8cc/
-subtitle: |-
-  Stress management.......Pain management.......Education
+slug: techniques
+title: Techniques
+featuredImage: https://ucarecdn.com/d1912bef-736b-458a-94ab-5c51467993bc/massage02.jpg
+subtitle: Techniques
+  Deep tissue massage.......Aromatherapy.......Mind-body Therapy
 
-  Massage Therapy.......Mindbody Therapy.......Meditation
+  Massage Therapy.......Pain Therapy.......Meditation
 section1: >-
-  ## Massage Therapy
+  ## Techniques used in Massage Therapy
 
 
   Massage therapy reduces tension, relieves aches and pain and improves psychological wellbeing among other things.
@@ -38,16 +38,16 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - alt: massage image
+    image: https://ucarecdn.com/24477b48-4d0f-485f-ae55-34b685293bf0/massage05.jpg
+    title: Pain management
+  - alt: massage image
+    image: https://ucarecdn.com/b248185f-334c-449f-8034-7f20c7b5c8c8/massage04.jpg
+    title: Deep tissue pain relief
+  - alt: massage image
+    image: https://ucarecdn.com/1b023c58-ba12-4b7e-b627-a586cdf82a73/massage03.jpg
+    title: Relaxing massage
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: Our services include stress management, pain management, education, massage therapy, mind-body therapy, meditation.
+  title: Techniques
 ---

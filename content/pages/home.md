@@ -13,11 +13,11 @@ subtitle: >-
 
   **Website in development.....**
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Massage, Mindbody Therapy, Meditation, Wellness coaching.
+  title: Core Health & Wellness
 ---
 Modern life is stressful!
 
-Tension, pain, inflammatory illness, chronic disease and mental illness either caused or are made worse by our state of nervous system wind-up.
+Tension, pain, inflammatory illness, chronic disease and mental illness are either caused or are made worse by our state of nervous system wind-up.
 
 We aim to reduce wind-up therefore reducing pain and improving overall wellbeing.
