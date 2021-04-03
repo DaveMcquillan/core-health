@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: techniques
 title: Techniques
-featuredImage: https://ucarecdn.com/d1912bef-736b-458a-94ab-5c51467993bc/massage02.jpg
+featuredImage: https://ucarecdn.com/d1912bef-736b-458a-94ab-5c51467993bc/
 subtitle: Techniques
   Deep tissue massage.......Aromatherapy.......Mind-body Therapy
 
@@ -39,13 +39,13 @@ accordion:
     title: Taciti lorem
 gallery:
   - alt: massage image
-    image: https://ucarecdn.com/24477b48-4d0f-485f-ae55-34b685293bf0/massage05.jpg
+    image: https://ucarecdn.com/24477b48-4d0f-485f-ae55-34b685293bf0/
     title: Pain management
   - alt: massage image
-    image: https://ucarecdn.com/b248185f-334c-449f-8034-7f20c7b5c8c8/massage04.jpg
+    image: https://ucarecdn.com/b248185f-334c-449f-8034-7f20c7b5c8c8/
     title: Deep tissue pain relief
   - alt: massage image
-    image: https://ucarecdn.com/1b023c58-ba12-4b7e-b627-a586cdf82a73/massage03.jpg
+    image: https://ucarecdn.com/1b023c58-ba12-4b7e-b627-a586cdf82a73/
     title: Relaxing massage
 meta:
   description: Our services include stress management, pain management, education, massage therapy, mind-body therapy, meditation.
