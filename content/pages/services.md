@@ -39,7 +39,7 @@ accordion:
     title: Taciti lorem
 gallery:
   - alt: massage image
-    image: https://ucarecdn.com/24477b48-4d0f-485f-ae55-34b685293bf0/massage05.jpg
+    image: https://ucarecdn.com/24477b48-4d0f-485f-ae55-34b685293bf0/
     title: Pain management
   - alt: massage image
     image: https://ucarecdn.com/b248185f-334c-449f-8034-7f20c7b5c8c8/massage04.jpg
